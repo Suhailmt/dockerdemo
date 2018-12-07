@@ -1,0 +1,3 @@
+# Files/folders listed here will NOT be copied into your image
+readme.md
+Dockerfile
